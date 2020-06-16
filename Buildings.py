@@ -1,8 +1,8 @@
 # Python3 program to count buildings  
-# that can see sunlight. 
+# exposed to the sunlight. 
   
 # Returns count buildings that 
-# can see sunlight 
+# exposed sunlight. 
 def countBuildings(arr, n): 
   
     # Initialuze result (Note that first  
